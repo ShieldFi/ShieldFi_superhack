@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/hardikkansal/ShieldFi_superhack/target/debug/build/typenum-fc2e13f5827e8cc4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/hardikkansal/ShieldFi_superhack/target/debug/build/typenum-fc2e13f5827e8cc4/out/op.rs
