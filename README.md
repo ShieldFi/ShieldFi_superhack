@@ -1,5 +1,5 @@
 # ShieldFi in brief
-  ![ShieldFi]()
+  ![ShieldFi](https://github.com/ShieldFi/ShieldFi_superhack/blob/e351dc62dd9cc6a02df2db22c8bd62353e426efd/ShieldFi.jpeg)
 
 "ShieldFi" is a Proof-of-Concept developed at SuperHack Hackathon by ETHGlobal. 
 ShieldFi at its heart carries the essence which is about securing DeFi Transactions. 
