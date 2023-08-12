@@ -1,7 +1,7 @@
 # ShieldFi in brief
   ![ShieldFi]()
 
-"ShieldFi" is a Proof-of-Concept developed at the Internal Hackathon of Blockchain Society-IIT Roorkee. 
+"ShieldFi" is a Proof-of-Concept developed at SuperHack Hackathon by ETHGlobal. 
 ShieldFi at its heart carries the essence which is about securing DeFi Transactions. 
 We aim to improvise the connection and collaboration between the Security experts and teams at various DeFi protocols. We aim to do so through the use of Zero-knowledge proofs. 
 The core concept behind ShieldFi is simple: Generate a zkP for an exploit in a smart contract and report it to the DeFi teams.
