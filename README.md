@@ -14,7 +14,7 @@ This often discourages hackers from reporting vulnerabilities, posing a risk to 
 Our advanced tooling enables auditors to generate a zero-knowledge proof of exploit securely, without disclosing the actual exploit itself. By utilizing zero-knowledge proofs, auditors can demonstrate their knowledge of a transaction that could lead to an undesirable change in contract state, without revealing the specific details of the exploit.
 By safeguarding the exploit, auditors foster an environment where project owners are encouraged to collaborate in resolving vulnerabilities. This facilitates effective communication and cooperation between hackers and project owners, promoting a more secure DeFi ecosystem.
 
-![Mechanism]()
+![Mechanism](https://github.com/ShieldFi/ShieldFi_superhack/blob/4118fd4edb72e088900ee9db94f7165ef98b3e03/Risc0%20zkVM.png)
 
 # Technologies Used
 Our project incorporates the following technologies:
