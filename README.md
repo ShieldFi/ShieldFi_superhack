@@ -1,4 +1,3 @@
-# ShieldFi_superhack
 # ShieldFi in brief
   ![ShieldFi]()
 
