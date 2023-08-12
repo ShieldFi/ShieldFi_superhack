@@ -21,7 +21,7 @@ app.get("/contract", (req, res) => {
 });
 
 app.post("/audit", (req, res) => {
-  fs.writeFileSync('/home/shogo/shogo/dev/blocsoc/hackathon/bytecode/Exploiter.sol', req.body.code);
+  fs.writeFileSync('../../bytecode/Exploiter.sol', req.body.code);
   exec("./script.sh", (error, stdout, stderr) => {
     if (error) {
       console.log(`error: ${error.message}`);
